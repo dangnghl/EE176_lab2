@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Error: inputs = 9
+  outputs = 18 (10 expected)
+        16 tests completed with          1 errors
+$stop called at time : 175 ns : File "C:/Users/017978376/lab2_nn/lab2_nn.srcs/sim_1/new/testbench_sevenseg.sv" Line 71

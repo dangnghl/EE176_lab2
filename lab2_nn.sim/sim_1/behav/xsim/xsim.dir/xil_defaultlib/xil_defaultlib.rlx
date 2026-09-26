@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/017978376/lab2_nn/lab2_nn.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/017978376/lab2_nn/lab2_nn.srcs/sim_1/new/sevenseg.sv,1790460457,systemVerilog,,C:/Users/017978376/lab2_nn/lab2_nn.srcs/sim_1/new/testbench_sevenseg.sv,,sevenseg,,uvm,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/017978376/lab2_nn/lab2_nn.srcs/sim_1/new/testbench_sevenseg.sv,1790459502,systemVerilog,,,,testbench_sevenseg,,uvm,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
